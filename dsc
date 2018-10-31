@@ -619,11 +619,11 @@ body.mobile-nav-active #mobile-nav-toggle {
 
 #portfolio .portfolio-item .details {
   height: 260px;
-  background: #fff;
+  background: #00008B	;
   display: table-cell;
   vertical-align: middle;
   opacity: 0;
-  transition: 0.3s;
+  transition: 0.4s;
   text-align: center;
 }
 
@@ -828,15 +828,15 @@ body.mobile-nav-active #mobile-nav-toggle {
 
 #contact .form input, #contact .form textarea {
   border-radius: 0;
-  box-shadow: none;
+  box-shadow: D3D3D3;
 }
 
 #contact .form button[type="submit"] {
   background: #03C4EB;
   border: 0;
   padding: 10px 24px;
-  color: #fff;
-  transition: 0.4s;
+  color: #DCDCDC;
+  transition: 0.5s;
 }
 
 #contact .form button[type="submit"]:hover {
